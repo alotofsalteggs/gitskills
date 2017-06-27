@@ -17,5 +17,9 @@ git remote add origin git@github.com:loginname/repositoryname.git #关联库
 git push -u origin master					  #第一次推送
 git push origin master
 git clone git@github.com:loginname/repositoryneme.git
+<<<<<<< HEAD
 git ls-files
 
+=======
+git skills centos pull test.
+>>>>>>> 474d4cb6b6cf0159e57fb035cf9ba41bbd51529e
