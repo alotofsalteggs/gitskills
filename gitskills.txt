@@ -28,3 +28,4 @@ git skills centos pull test.
 >>>>>>> 474d4cb6b6cf0159e57fb035cf9ba41bbd51529e
 git config global user.name "wang"
 git config global user.email "1484296249@qq.com"
+git remote -v #查看远程仓库
